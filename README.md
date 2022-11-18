@@ -1,2 +1,3 @@
 # silver-broccoliPasswordKeeper
-A database of all passwords. i.e. netflix, hulu, amazon prime and so on.
+A website that works as a vaut for passwords
+
