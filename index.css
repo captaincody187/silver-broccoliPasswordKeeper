@@ -1,0 +1,35 @@
+body {
+    background-image: url('remote.jpg');
+    position: ablsolute;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.head {
+    background-color: black;
+    color: aliceblue;
+    padding: 1rem;
+    margin: 0;
+}
+
+.sign {
+    display: flex;
+    justify-content: center;
+    color: ivory;
+    font-size: large;
+    font-weight: bold;
+}
+
+.foot {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+  }
